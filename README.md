@@ -15,8 +15,7 @@ New Era University
 ## 📜 Certifications
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/907b7f89d34c4e33854502bb8e428655)
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=350A1D0BAB4FE583BD1A41F8EFCEC9B31DAFF8BCD28CCBEA08E4FCD55E3D7252)
-- [Oracle Data Platform 2025 Certified Foundations Associate]([https://catalog-education.oracle.com/ords/certview/sharebadge?id=350A1D0BAB4FE583BD1A41F8EFCEC9B31DAFF8BCD28CCBEA08E4FCD55E3D7252](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5DAD335E0519497F40901DCFFB536CF360139414D88D00D3D4EDF262691F87F6))
-
+- [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5DAD335E0519497F40901DCFFB536CF360139414D88D00D3D4EDF262691F87F6)
 ---
 
 ## 💻 Skill Sets
